@@ -27,13 +27,13 @@ life_cycle: 'stable'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/WilliamNgiam/2025-AU-intro-to-R'
+source: 'https://github.com/datacarpentry/r-socialsci'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'william.ngiam@adelaide.edu.au'
 
 # Navigation ------------------------------------------------
 #
@@ -61,18 +61,14 @@ contact: 'team@carpentries.org'
 episodes: 
 - 00-intro.Rmd
 - 01-intro-to-r.Rmd
-- 02-starting-with-data.Rmd
-- 03-data-structures-part1.Rmd
-- 04-data-structures-part2.Rmd
-- 05-data-subsetting.Rmd
-- 06-control-flow.Rmd
-- 07-vectorization.Rmd
-- 08-functions.Rmd
-- 09-dplyr.Rmd
-- 10-tidyr.Rmd
-- 11-ggplot2.Rmd
-- 12-rmarkdown.Rmd
-- 13-wrap-up.Rmd
+- 02-data-structures-part1.Rmd
+- 03-data-structures-part2.Rmd
+- 04-working-with-data.Rmd
+- 05-dplyr.Rmd
+- 06-tidyr.Rmd
+- 07-wrap-up.Rmd
+- 08-ggplot2.Rmd
+- 09-rmarkdown.Rmd
 
 # Information for Learners
 learners: 
@@ -91,4 +87,4 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://williamngiam.github.io/2025-AU-intro-to-R'
+url: 'https://datacarpentry.org/r-socialsci'
