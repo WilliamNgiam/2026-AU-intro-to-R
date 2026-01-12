@@ -47,7 +47,7 @@ everything *before* working through this lesson.
 ## For Instructors
 
 If you are teaching this lesson in a workshop, please see the
-[Instructor notes](https://williamngiam.github.io/2026-AU-intro-to-R/instructor/instructor-notes.html)
+[Instructor notes](https://williamngiam.github.io/2025-AU-intro-to-R/instructor/instructor-notes.html)
 for helpful tips.
 
 
