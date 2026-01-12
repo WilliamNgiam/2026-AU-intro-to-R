@@ -1,7 +1,7 @@
 ---
 title: Before we Start
-teaching: 25
-exercises: 15
+teaching: 20
+exercises: 10
 source: Rmd
 ---
 
@@ -221,7 +221,7 @@ resume work after a break.
   `New project`
 - Enter a name for this new folder (or "directory") and choose a convenient
   location for it. This will be your **working directory** for the rest of the
-  day (e.g., `~/data-carpentry`)
+  day (e.g., `~/intro-to-R`)
 - Click on `Create project`
 - Create a new file where we will type our scripts. Go to File > New File > R
   script. Click the save icon on your toolbar and save your script as

@@ -110,8 +110,8 @@ installr::updateR(TRUE)
   Instructions for downloading the data with R are provided in the
   [Before we start episode](https://datacarpentry.org/r-socialsci/00-intro.html).
 
-- The [json episode](https://datacarpentry.org/r-socialsci/07-json.html) uses
-  `SAFI.json`. The file is available on GitHub
-  [here](https://github.com/datacarpentry/r-socialsci/blob/main/episodes/data/SAFI.json).
+- The [data structure episodes](https://williamngiam.github.io/2026-AU-intro-to-R/02-data-structures-part1.html) uses
+  `gapminder.csv`. The file is available on GitHub
+  [here](https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/main/episodes/data/gapminder_data.csv).
 
 
