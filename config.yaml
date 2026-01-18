@@ -61,14 +61,12 @@ contact: 'william.ngiam@adelaide.edu.au'
 episodes: 
 - 00-intro.Rmd
 - 01-intro-to-r.Rmd
-- 02-data-structures-part1.Rmd
-- 03-data-structures-part2.Rmd
-- 04-working-with-data.Rmd
-- 05-dplyr.Rmd
-- 06-tidyr.Rmd
-- 07-wrap-up.Rmd
-- 08-ggplot2.Rmd
-- 09-rmarkdown.Rmd
+- 02-working-with-data.Rmd
+- 03-dplyr.Rmd
+- 04-tidyr.Rmd
+- 05-ggplot2.Rmd
+- 06-wrap-up.Rmd
+- 07-rmarkdown.Rmd
 
 # Information for Learners
 learners: 
