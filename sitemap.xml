@@ -13,6 +13,9 @@
     <loc>https://datacarpentry.org/r-socialsci/02-starting-with-data.html</loc>
   </url>
   <url>
+    <loc>https://datacarpentry.org/r-socialsci/02-working-with-data.html</loc>
+  </url>
+  <url>
     <loc>https://datacarpentry.org/r-socialsci/03-data-structures-part1.html</loc>
   </url>
   <url>
@@ -49,7 +52,13 @@
     <loc>https://datacarpentry.org/r-socialsci/06-tidyr.html</loc>
   </url>
   <url>
+    <loc>https://datacarpentry.org/r-socialsci/06-wrap-up.html</loc>
+  </url>
+  <url>
     <loc>https://datacarpentry.org/r-socialsci/07-json.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.org/r-socialsci/07-rmarkdown.html</loc>
   </url>
   <url>
     <loc>https://datacarpentry.org/r-socialsci/07-vectorization.html</loc>
@@ -232,6 +241,9 @@
     <loc>https://datacarpentry.org/r-socialsci/instructor/02-starting-with-data.html</loc>
   </url>
   <url>
+    <loc>https://datacarpentry.org/r-socialsci/instructor/02-working-with-data.html</loc>
+  </url>
+  <url>
     <loc>https://datacarpentry.org/r-socialsci/instructor/03-data-structures-part1.html</loc>
   </url>
   <url>
@@ -268,7 +280,13 @@
     <loc>https://datacarpentry.org/r-socialsci/instructor/06-tidyr.html</loc>
   </url>
   <url>
+    <loc>https://datacarpentry.org/r-socialsci/instructor/06-wrap-up.html</loc>
+  </url>
+  <url>
     <loc>https://datacarpentry.org/r-socialsci/instructor/07-json.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.org/r-socialsci/instructor/07-rmarkdown.html</loc>
   </url>
   <url>
     <loc>https://datacarpentry.org/r-socialsci/instructor/07-vectorization.html</loc>
