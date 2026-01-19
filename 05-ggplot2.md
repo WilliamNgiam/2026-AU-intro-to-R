@@ -90,6 +90,7 @@ interviews_plotting <- read_csv("https://raw.githubusercontent.com/datacarpentry
 ``` r
 ## Can be used to load in data from previous lesson!
 interviews_plotting <- interviews %>%
+  mutate(key_ID = row_number()) %>% 
   ## pivot wider by items_owned
   separate_longer_delim(items_owned, delim = ";") %>%
   replace_na(list(items_owned = "no_listed_items")) %>%
@@ -107,6 +108,8 @@ interviews_plotting <- interviews %>%
   pivot_wider(names_from = months_lack_food,
               values_from = months_lack_food_logical,
               values_fill = list(months_lack_food_logical = FALSE))
+  ungroup() %>%
+  select(-key_ID)
 ```
 
 :::
