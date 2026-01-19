@@ -78,8 +78,7 @@ available data. For information about the full teaching dataset used
 in other lessons in this workshop, see the
 [dataset description](https://datacarpentry.org/socialsci-workshop/index.html#data).
 
-We will be using a subset of the cleaned version of the dataset that
-was produced through cleaning in OpenRefine (`data/SAFI_clean.csv`). In this dataset, the missing data is encoded as "NULL", each row holds
+**Download the datafile (`SAFI_clean.csv`) from [this link](https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019/4?file=11492171) and place it in the `data` folder of your directory**. In this dataset, the missing data is encoded as "NULL", each row holds
 information for a single interview respondent, and the columns
 represent:
 
