@@ -78,7 +78,7 @@ available data. For information about the full teaching dataset used
 in other lessons in this workshop, see the
 [dataset description](https://datacarpentry.org/socialsci-workshop/index.html#data).
 
-**Download the datafile (`SAFI_clean.csv`) from [this link](https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019/4?file=11492171) and place it in the `data` folder of your directory**. In this dataset, the missing data is encoded as "NULL", each row holds
+**Download the datafile (`SAFI_clean.csv`) from [this link](https://github.com/datacarpentry/r-socialsci/blob/main/episodes/data/SAFI_clean.csv) and place it in the `data` folder of your directory**. In this dataset, the missing data is encoded as "NULL", each row holds
 information for a single interview respondent, and the columns
 represent:
 
@@ -366,7 +366,7 @@ Now, continue using `interviews` for each of the following activities:
   the content of this middle row in an object named `interviews_middle`.
   (hint: This dataset has an odd number of rows, so finding the middle is a
   bit trickier than dividing n\_rows by 2. Use the median( ) function and what
-  you've learned about sequences in R to extract the middle row!
+  you've learned about sequences in R to extract the middle row!)
 
 4. Combine `nrow()` with the `-` notation above to reproduce the behavior of
   `head(interviews)`, keeping just the first through 6th rows of the

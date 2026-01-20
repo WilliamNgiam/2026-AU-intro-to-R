@@ -11,7 +11,7 @@ SAFI Survey Results available on GitHub. The original data is on
 This lesson uses `SAFI_clean.csv`. The direct download link for the data file is:
 [https://raw.githubusercontent.com/datacarpentry/r-socialsci/main/episodes/data/SAFI_clean.csv](https://raw.githubusercontent.com/datacarpentry/r-socialsci/main/episodes/data/SAFI_clean.csv).
 
-The lessons uses another dataset `gapminder_Data.csv`. The direct download link is [https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/main/episodes/data/gapminder_data.csv]( https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/main/episodes/data/gapminder_data.csv).
+The Etherpad document is here: [https://pad.carpentries.org/AU-2026-01-27].  
 
 ## Lesson Plans
 
