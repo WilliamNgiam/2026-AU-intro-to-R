@@ -23,6 +23,7 @@ Keep your project folder structured, organized and tidy, by creating subfolders 
 
 An example layout for the project folder:
 
+```
 |-- README
 |-- task
 |   |-- project_task.js
@@ -34,6 +35,7 @@ An example layout for the project folder:
 |   |-- project_analysis.html
 |-- manuscript
 |   |-- project_manuscript.docx
+```
 
 ## Make code readable
 

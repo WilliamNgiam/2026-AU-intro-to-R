@@ -19,6 +19,7 @@ less time, and with less pain.
 The workshop covers R syntax, the RStudio interface, and move through how to import CSV files, the
 structure of data frames, how to wrangle data with dplyr and tidyr, and a brief introduction to plotting and RMarkdown.
 
+To keep collaborative notes, we will use [this Etherpad document](https://pad.carpentries.org/AU-2026-01-27). 
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
 
