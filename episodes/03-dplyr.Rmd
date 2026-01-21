@@ -422,6 +422,16 @@ interviews %>%
               min_membrs = min(no_membrs))
 ```
 
+You can summarise across multiple variables in your grouped tibble:
+
+```{r, purl=FALSE}
+interviews %>%
+    filter(!is.na(memb_assoc)) %>%
+    group_by(village, memb_assoc) %>%
+    summarize(mean_no_membrs = mean(no_membrs),
+              min_years = min(years_liv))
+```
+
 It is sometimes useful to rearrange the result of a query to inspect the values.
 For instance, we can sort on `min_membrs` to put the group with the smallest
 household first:
