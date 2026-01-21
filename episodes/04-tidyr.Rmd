@@ -85,15 +85,6 @@ interviews %>%
   distinct() %>%
   nrow()
 ```
-Well, that is fewer than the number of records – seems like we do not have unique IDs! This is actually
-an issue with the original dataset. Let's fix it by ensuring unique IDs.
-
-```{r, purl=FALSE}
-interviews <- interviews %>%
-  mutate(key_ID = row_number())
-```
-
-Now, if we re-run the code from earlier, we should get the desired result.
 
 As seen in the code below, for each interview date in each village no
 `instanceID`s are the same. Thus, this format is what is called a "long" data
