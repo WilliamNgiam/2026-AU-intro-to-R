@@ -537,6 +537,21 @@ the `group_by()` function.
 
 ### The `summarize()` function
 
+The `summarize()` / `summarise()` function can collapse a tibble to provide a summary statistic.
+
+
+``` r
+interviews %>%
+    summarize(mean_no_membrs = mean(no_membrs))
+```
+
+``` output
+# A tibble: 1 × 1
+  mean_no_membrs
+           <dbl>
+1           7.19
+```
+
 `group_by()` is often used together with `summarize()`, which collapses each
 group into a single-row summary of that group.  `group_by()` takes as arguments
 the column names that contain the **categorical** variables for which you want
